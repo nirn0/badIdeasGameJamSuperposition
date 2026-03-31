@@ -1,0 +1,1 @@
+if(phase == 10) draw_sprite_ext(sYouDied,0,960,540,2,2,0,c_white,drawAlpha);

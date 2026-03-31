@@ -1,0 +1,1 @@
+direction = point_direction(x,y,oPlayerBattle.x,oPlayerBattle.y);
