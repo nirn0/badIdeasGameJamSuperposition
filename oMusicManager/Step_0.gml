@@ -1,0 +1,1 @@
+if(!audio_is_playing(global.currentMusic)) audio_play_sound(global.currentMusic, 1, true, 1, 0, 1);
