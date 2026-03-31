@@ -506,7 +506,7 @@ switch (num){
             eY3 = 0;break;
         
         case 300:
-            ehp1 = 17;
+            ehp1 = 170;
             ename1 = "inverse";
             esprnor1 = sFinalIdle;
             esprmove1 = sFinalWalk;
