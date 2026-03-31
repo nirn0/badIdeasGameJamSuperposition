@@ -1,0 +1,1 @@
+if(global.tutorial == 0) instance_destroy();

@@ -1,0 +1,1 @@
+if(global.gamePaused) draw_sprite_ext(pauseMenuSprite,pauseOptionSelected,960,540,3,3,0,c_white,1);

@@ -1,0 +1,1 @@
+if(oPlayerBattle.xTo == 240 && oPlayerBattle.yTo == -20) move_towards_point(oPlayerBattle.xTo, oPlayerBattle.yTo-20,2);

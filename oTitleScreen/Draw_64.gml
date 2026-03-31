@@ -1,0 +1,1 @@
+draw_sprite_ext(menuSprite,optionSelected,940,680,3,3,0,c_white,1);
