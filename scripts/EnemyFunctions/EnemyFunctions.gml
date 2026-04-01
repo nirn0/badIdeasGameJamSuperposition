@@ -3,7 +3,7 @@ function EnemyHurt(){
     //calculate poison and freeze chances
     switch (global.currentWeapon) {
     	case 2:
-            global.poisonChance += 120; break;
+            global.poisonChance += 20; break;
         case 7:
             global.poisonChance += 25; break;
         case 9:
